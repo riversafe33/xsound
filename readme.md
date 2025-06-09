@@ -177,18 +177,4 @@ https://github.com/plunkettscott/interact-sound<br>
    
    - `setTimeStamp(source ,name, time)` will set a new timestamp.
    <br>TIMESTAMP is in a seconds only !
-------------
 
-Showcase how it can stream sound at game
-
-https://www.youtube.com/watch?v=zyZmF5bRSA4
-
-https://www.youtube.com/watch?v=19Q2GVYElSE
-
-Showcase what I did with my API
-
-#These are just a showcase! I will not share them....
-
-https://www.youtube.com/watch?v=OOf6PZFpfkI
-
-https://www.youtube.com/watch?v=JRTVga_FwGw
