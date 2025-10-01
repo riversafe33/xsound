@@ -1,4 +1,4 @@
-# Remove -main; the folder should be named just xsound
+# Remove -main  the folder should be named just xsound
 
 # Improved audio library for FiveM
 
