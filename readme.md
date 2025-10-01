@@ -1,3 +1,5 @@
+Remove -main; the folder should be named just xsound
+
 # Improved audio library for FiveM
 
 Can work with API interact sound<br>
